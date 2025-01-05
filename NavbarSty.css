@@ -1,0 +1,17 @@
+*{
+    font-family: FaktCondensed, AvenirNextCondensed-Medium, Segoe UI, sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    
+}
+ul.navbar-nav {
+    width: 100%;
+    justify-content: space-between;
+
+  }
+  
+  /* @media screen (max-width: 520px) {
+    .firstheading {
+      display: none;
+    }
+  } */
